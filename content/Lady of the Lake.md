@@ -1,0 +1,1 @@
+A ghostly white figure that haunts [[Lac Dinneshire]].
