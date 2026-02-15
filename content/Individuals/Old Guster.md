@@ -1,4 +1,16 @@
-Old, male, mousefolk
+| Name             | Old Guster                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| Species          | Mousefolk                                                                                       |
+| Class/Occupation | Conspiracy Theorist                                                                             |
+| Faction          | N/A                                                                                             |
+| Age              | Old                                                                                             |
+| Gender           | He/him                                                                                          |
+| Alignment        | Chaotic Good                                                                                    |
+| Location         | [[Easthaven]]                                                                                   |
+| Appearance       | Wiry hair white with age springs out all around him                                             |
+| Personality      | Frantic and eager to help in his own way                                                        |
+| Backstory        | A friend of [[Professor Greywhistle]] and once knew [[Arctic Winds]]' dad [[Breathless River]]. |
+| Goals            | Bring [[Sephek Caltro]] to justice                                                              |
 
 [[Easthaven]]'s local conspiracy theorist and friend of [[Professor Greywhistle]].
 

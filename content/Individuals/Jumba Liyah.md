@@ -1,3 +1,16 @@
+| Name             | Jumba Liyah                                                             |
+| ---------------- | ----------------------------------------------------------------------- |
+| Species          | Catfish-folk                                                            |
+| Class/Occupation | Chef                                                                    |
+| Faction          | N/A                                                                     |
+| Age              | Middle-aged                                                             |
+| Gender           | He/him                                                                  |
+| Alignment        | Lawful Good                                                             |
+| Location         | [[Easthaven]]                                                           |
+| Appearance       | An enormous dark blue catfish man                                       |
+| Personality      | Strong silent type, but friendly to anyone who takes a seat at his bar. |
+| Backstory        | Unknown                                                                 |
+| Goals            | Serve the people of [[Easthaven]] and any travelers passing by          |
 Large catfish man.
 Runs the Pale Lady Inn in [[Easthaven]].
 

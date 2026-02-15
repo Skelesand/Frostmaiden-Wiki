@@ -1,3 +1,17 @@
+| Name             | Dandylin Greywhistle                                                                                                        |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Species          | Squirrelfolk                                                                                                                |
+| Class/Occupation | Wizard                                                                                                                      |
+| Faction          | [[Arcane Brotherhood]]                                                                                                      |
+| Age              | 40s                                                                                                                         |
+| Gender           | She/her                                                                                                                     |
+| Alignment        | Lawful Neutral                                                                                                              |
+| Location         | Unknown (previously [[Easthaven]])                                                                                          |
+| Appearance       | Light brown fur with small spectacles always at the end of her nose.                                                        |
+| Personality      | Intellectual, focused, single-minded                                                                                        |
+| Backstory        | Responded to a letter from her friend [[Orrin Farzassh]], but when she arrived to meet him, he had been burned at the stake |
+| Goals            | Discover what happened to [[Orrin Farzassh]] and continue investigating the [[spirit\|spirits]] of the north                |
+
 Dandylin Greywhistle
 A squirrelfolk professor and member of the [[Arcane Brotherhood]].
 
