@@ -28,7 +28,12 @@ A large tavern with one large spare room for any visitors to sleep.
 ### The Knucklehead Tavern ###
 A small tavern at the northern end of town. Recommended to [[Lightfoot]] by [[John Robbins]].
 ### Easthaven Town Hall ###
-
+The office of [[Townspeaker]] [[Captain Waylon|Waylon]]. [[John Robbins]] works as her diligent secretary. [[Captain Waylon]] is generally available to the public to listen to whatever problems her citizens are facing.
+[[Captain Waylon]]'s office is very finely decorated and adorned with Waylon's spoils of combat. [[Lightfoot]] noticed it is unnaturally cold within the office, with the coldest point being in the center of the room. Waylon was also seen covering a glass sphere with a bit of cloth before pointing out directions on [[Arctic Winds]]' map.
 ### Easthaven Library ###
+[[Mrs. Bumbleflower]] oversees the library operations. She can often be found sitting at the front desk bundled in countless scarves and blankets. There are many books written by locals about legends, recipes, and various customs of the town. [[Lightfoot]] discovered a journal by a "[[J. Alabaster]]".
 
 ### Trout n Goods ###
+A basic goods store. Specialized in fishing equipment.
+
+## Events ##
