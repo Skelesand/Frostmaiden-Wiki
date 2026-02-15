@@ -1,0 +1,1 @@
+A skilled survival guide of [[Icewind Dale]]. Not much is known about this person.

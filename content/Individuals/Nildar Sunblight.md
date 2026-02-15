@@ -1,0 +1,13 @@
+| Name             | Nildar Sunblight                                                                                                                                                                        |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Species          | Molefolk                                                                                                                                                                                |
+| Class/Occupation | Alchemist / Crown Prince                                                                                                                                                                |
+| Faction          | [[Sunblights]]                                                                                                                                                                          |
+| Age              | Young                                                                                                                                                                                   |
+| Gender           | He/him                                                                                                                                                                                  |
+| Alignment        | Lawful Evil                                                                                                                                                                             |
+| Location         | [[Easthaven]]                                                                                                                                                                           |
+| Appearance       | Small beady eyes beneath a hood                                                                                                                                                         |
+| Personality      | Schemer                                                                                                                                                                                 |
+| Backstory        | The seventh son of [[Xardorok Sunblight]] and now crown prince. [[Durth Sunblight]], the sixth son, killed the others before he was killed by Nildar's new found ally [[Arctic Winds]]. |
+| Goals            | Bring "prosperity" to [[Icewind Dale]]                                                                                                                                                  |

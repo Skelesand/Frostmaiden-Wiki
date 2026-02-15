@@ -39,4 +39,27 @@ The office of [[Townspeaker]] [[Captain Waylon|Waylon]]. [[John Robbins]] works 
 ### Trout n Goods ###
 A basic goods store. Specialized in fishing equipment.
 
-## Events ##
+## Major Events ##
+### Burned at the Stake ###
+When the party arrived the entire town was out in the town center celebrating the burning of the wizard [[Orrin Farzassh]] who had been charged with the murder of his own expedition crew. [[Captain Waylon]] led this ritual, which involved Orrin's death by burning at the stake, and the gathering of the town around this fire for warmth. From this ritual the party discovered there are [[Gargoyles]] perched and watching this display. Lightfoot retrieves a lost journal belonging to [[Professor Greywhistle]].
+
+### The Lady of the Lake ###
+[[Lightfoot]] had traveled to [[Easthaven]] because he heard a rumor of a bard named [[Elsbeth]] traveling there too to perform a communing ritual. Sure enough [[Elsbeth]] was waiting in The Pale Lady Inn for people to gather.
+
+During the ritual it was revealed that there were "Unseen Thieves" lurking in Easthaven, and that the [[Lady of the Lake]] was being tormented by laughter (Lady revealed to be [[Madam Harkle]]).
+
+The ritual ended when [[Clive]] drunkenly disturbed the offerings and angered the conjured [[spirit]]. This caused the [[Lady of the Lake]] to go into a frenzy, possessing [[Jumba Liyah]] and tormenting anyone in sight. As she passed through the walls of the inn, the wraith left behind an inky black substance that began to grow like mold. [[Arctic Winds]] and [[Lightfoot]] were both knocked unconscious and the fight was put to an end by [[Professor Greywhistle]]. [[Elsbeth]] healed the parties wounds with her magic songs.
+
+### Laughter on the Wind ###
+[[Six]] came seeking anyone's help that would listen. [[Clover]] had gone after his older sister [[River]] after she didn't return from one of [[Clive]]'s expeditions.
+
+[[Arctic Winds]] and [[Lightfoot]] acted quickly and made their way to where the expedition was headed. The quickly discovered that the crew had been lured away from the boat and into a nearby cave system called the [[Cauldron Caves]]. Just outside of the caves was one of [[Clover]]'s toys. They found clover inside and managed to get him home before he died of exposure.
+
+Later they returned to look for River but found it was too late. While searching these caves they found trace amounts of [[chardalyn]] as well as signs of giants using these caves. [[Arctic Winds]] was gifted the strength of [[Frost Giants]] within these caves for ridding them of its intruder: [[Madam Harkle]].
+
+[[Madam Harkle]] was found deep in the caves using the magic [[Cauldron of Plenty]] which the [[Frost Giants]] had once used in their rituals. The party quickly disposed of her and [[Lightfoot]] was made aware that the [[Hailbriar Coven]] is watching them.
+
+### Unseen Thieves ###
+While [[Lightfoot]] listened to the lake, [[Arctic Winds]] found signs of someone going to and from the edge of the frozen over docks quite frequently. This led to the discovery of someone's hideout on the [[S.S. Mermaiden]], a small ship owned by [[Clive]]. 
+
+[[Arctic Winds]]' heightened senses allowed her to see the invisible molefolk, [[Nildar Sunblight]], hiding in the corner of the captains cabin they were investigating. Their investigations found that the molefolk were gathering [[chardalyn]] for some reason, and that Nildar was behind on his quota. The investigation was cut short when Nildar's trap was detonated by [[Lightfoot]] grabbing the bag of gold coins Nildar had left behind, destroying the written evidence left behind.
