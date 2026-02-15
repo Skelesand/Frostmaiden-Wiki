@@ -1,0 +1,13 @@
+| Name             | Six                                                                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Species          | Foxfolk                                                                                                                                                                                    |
+| Class/Occupation | Leather worker                                                                                                                                                                             |
+| Faction          | N/A                                                                                                                                                                                        |
+| Age              | 50s                                                                                                                                                                                        |
+| Gender           | He/him                                                                                                                                                                                     |
+| Alignment        | Good                                                                                                                                                                                       |
+| Location         | [[Easthaven]]                                                                                                                                                                              |
+| Appearance       | Older gray fox                                                                                                                                                                             |
+| Personality      | Timid                                                                                                                                                                                      |
+| Backstory        | His daughter [[River]] went missing on an expedition, causing his son [[Clover]] to go after her alone. He desperately asked anyone to go after him, as he was in no condition to himself. |
+| Goals            | Keep [[Clover]] safe                                                                                                                                                                       |
