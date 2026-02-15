@@ -11,7 +11,7 @@
 | Personality      | Strong silent type, but friendly to anyone who takes a seat at his bar. |
 | Backstory        | Unknown                                                                 |
 | Goals            | Serve the people of [[Easthaven]] and any travelers passing by          |
-Large catfish man.
+
 Runs the Pale Lady Inn in [[Easthaven]].
 
 Beat the brakes off of [[Arctic Winds]] and [[Lightfoot]] while temporarily possessed by the [[Lady of the Lake]].

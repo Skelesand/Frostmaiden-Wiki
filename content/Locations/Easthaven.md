@@ -1,7 +1,10 @@
 ## Introduction ##
 Population: 750
+
 Leader: [[Townspeaker]] [[Captain Waylon|Waylon]]
+
 Easthaven is the largest of the eastern towns. Its residents are generally friendly and there is still enough money flowing through the town to keep open taverns and an inn.
+
 The people of Easthaven have a great reverence for spirits for better and for worse. This has resulted in [[chimlings]] being present around town as other spirits gather to the town's rituals. They have also began sacrificing one of their own each month on the full moon to the [[Frostmaiden]], as enforced by [[Captain Waylon]]. One of these ritual sacrifices was recently stopped by [[Arctic Winds]] and [[Lightfoot]] as they rescued [[Professor Greywhistle]] from what they suspected to be a rigged lottery selection. A harsh blizzard centered over Easthaven formed within the hour.
 
 | **Known Residents:**                              |
