@@ -1,0 +1,1 @@
+The Reghed Glacier is a massive, ancient sheet of ice that stretches across the northern expanse of the [[Spine of the World]].

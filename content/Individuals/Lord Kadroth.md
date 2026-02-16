@@ -14,4 +14,4 @@
 
 Lord Kadroth was killed by the party following [[Alexander]]'s plan. In order to be killed all of the hearths of Castle Dineval had to be extinguished.
 
-Following his death many seemed relieved and a [["celebration of life"]] was held later the same day.
+Following his death many seemed relieved and a "celebration of life" was held later the same day.

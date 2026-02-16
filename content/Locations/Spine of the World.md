@@ -1,0 +1,1 @@
+A jagged mountain range that divides [[Icewind Dale]] from the rest of the world, south of the mountains.
