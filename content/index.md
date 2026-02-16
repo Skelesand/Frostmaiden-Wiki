@@ -22,7 +22,7 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Marigold]]         | Belle    | Healing townspeaker     |
 
 ## Locations ##
-Our story begins in [[Easthaven]] and continues in [[Caer-Dineval]].
+Our story begins in [[Easthaven]] and the [[Cauldron Caves]], then making its way to [[Caer-Dineval]] and [[Kelvin's Cairn]].
 
 | [[Ten-Towns]]     | Visited? |
 | ----------------- | -------- |
