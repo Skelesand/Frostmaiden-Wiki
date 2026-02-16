@@ -11,7 +11,7 @@
 | Personality      | Frantic and eager to help in his own way                                                        |
 | Backstory        | A friend of [[Professor Greywhistle]] and once knew [[Arctic Winds]]' dad [[Breathless River]]. |
 | Goals            | Bring [[Sephek Caltro]] to justice                                                              |
-
+![[Old Guster.jpg]]
 [[Easthaven]]'s local conspiracy theorist and friend of [[Professor Greywhistle]].
 
 Old Guster believes the infamous serial killer [[Sephek Caltro]] has escaped from [[Revel's End]] and is back to his old ways. Guster has supplied the party with a wanted poster for Sephek and told them they could surely claim a fine reward if he was brought back dead or alive to Revel's End.
