@@ -46,9 +46,9 @@ When the party arrived the entire town was out in the town center celebrating th
 ### The Lady of the Lake ###
 [[Lightfoot]] had traveled to [[Easthaven]] because he heard a rumor of a bard named [[Elsbeth]] traveling there too to perform a communing ritual. Sure enough [[Elsbeth]] was waiting in The Pale Lady Inn for people to gather.
 
-During the ritual it was revealed that there were "Unseen Thieves" lurking in Easthaven, and that the [[Lady of the Lake]] was being tormented by laughter (Lady revealed to be [[Madam Harkle]]).
+During the ritual it was revealed that there were "Unseen Thieves" lurking in Easthaven, and that the [[Lady of the Lake]] was being tormented by laughter (Later revealed to be [[Madam Harkle]]).
 
-The ritual ended when [[Clive]] drunkenly disturbed the offerings and angered the conjured [[spirit]]. This caused the [[Lady of the Lake]] to go into a frenzy, possessing [[Jumba Liyah]] and tormenting anyone in sight. As she passed through the walls of the inn, the wraith left behind an inky black substance that began to grow like mold. [[Arctic Winds]] and [[Lightfoot]] were both knocked unconscious and the fight was put to an end by [[Professor Greywhistle]]. [[Elsbeth]] healed the parties wounds with her magic songs.
+The ritual ended when [[Clive]] drunkenly disturbed the offerings and angered the conjured [[spirit]]. This caused the [[Lady of the Lake]] to go into a frenzy, possessing [[Jumba Liyah]] and attacking anyone in sight. As she passed through the walls of the inn, the wraith left behind an inky black substance that began to grow like mold. [[Arctic Winds]] and [[Lightfoot]] were both knocked unconscious and the fight was put to an end by [[Professor Greywhistle]]. [[Elsbeth]] healed the parties wounds with her magic songs.
 
 ### Laughter on the Wind ###
 [[Six]] came seeking anyone's help that would listen. [[Clover]] had gone after his older sister [[River]] after she didn't return from one of [[Clive]]'s expeditions.
@@ -63,3 +63,10 @@ Later they returned to look for River but found it was too late. While searching
 While [[Lightfoot]] listened to the lake, [[Arctic Winds]] found signs of someone going to and from the edge of the frozen over docks quite frequently. This led to the discovery of someone's hideout on the [[S.S. Mermaiden]], a small ship owned by [[Clive]]. 
 
 [[Arctic Winds]]' heightened senses allowed her to see the invisible molefolk, [[Nildar Sunblight]], hiding in the corner of the captains cabin they were investigating. Their investigations found that the molefolk were gathering [[chardalyn]] for some reason, and that Nildar was behind on his quota. The investigation was cut short when Nildar's trap was detonated by [[Lightfoot]] grabbing the bag of gold coins Nildar had left behind, destroying the written evidence left behind.
+
+### Drawing of the Moons ###
+Each month on the full moon a name is drawn from those who reside in [[Easthaven]]. [[Professor Greywhistle]]'s name is drawn by [[John Robbins]] and read allowed by [[Captain Waylon]]. [[Arctic Winds]] acts quickly to grab Greywhistle and flee the scene. [[Lightfoot]] and [[Arctic Winds]] manage to evade capture as a massive blizzard begins to form overhead. 
+
+While sneaking through town [[Arctic Winds]] is confronted by [[Captain Waylon]] who warns they don't understand what they're doing. [[Lightfoot]] was ready with a sled and mount to escape town with [[Arctic Winds]] and [[Professor Greywhistle]].
+
+The party heads north, where [[Alexander]] had promised a safe place to stay in [[Caer-Dineval]] should they ever need one.
