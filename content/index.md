@@ -22,4 +22,18 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Marigold]]         | Belle    | Healing townspeaker     |
 
 ## Locations ##
-Our story begins in [[Easthaven]].
+Our story begins in [[Easthaven]] and continues in [[Caer-Dineval]].
+
+| [[Ten-Towns]]     | Visited? |
+| ----------------- | -------- |
+| [[Bremen]]        | No       |
+| [[Bryn Shander]]  | No       |
+| [[Caer-Dineval]]  | Yes      |
+| [[Caer-Konig]]    | Yes      |
+| [[Dougan's Hole]] | No       |
+| [[Easthaven]]     | Yes      |
+| [[Good Mead]]     | No       |
+| [[Lonelywood]]    | No       |
+| [[Targos]]        | No       |
+| [[Termalaine]]    | No       |
+
