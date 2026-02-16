@@ -1,3 +1,4 @@
+
 | Name             | Old Guster                                                                                      |
 | ---------------- | ----------------------------------------------------------------------------------------------- |
 | Species          | Mousefolk                                                                                       |
@@ -12,7 +13,7 @@
 | Backstory        | A friend of [[Professor Greywhistle]] and once knew [[Arctic Winds]]' dad [[Breathless River]]. |
 | Goals            | Bring [[Sephek Caltro]] to justice                                                              |
 
-![[Old Guster 1.jpg]]
+
 
 [[Easthaven]]'s local conspiracy theorist and friend of [[Professor Greywhistle]].
 
