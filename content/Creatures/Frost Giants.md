@@ -1,0 +1,1 @@
+Ancient Polar Bear-folk, closely tied to the element of frost.

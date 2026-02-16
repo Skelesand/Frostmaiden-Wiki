@@ -1,0 +1,3 @@
+A pitch black material found in [[Icewind Dale]]. It has a naturally corrupting influence but is also capable of harnessing very powerful magic. [[Arctic Winds]] learned that chardalyn dates back to an ancient civilization called [[Netheril]].
+
+It seems to come a variety of forms. There were specs of raw chardalyn found in the walls of the [[Cauldron Caves]]. There are also instances of refined and finely worked chardalyn like the butcher's knife [[The Gourmand]] or [[Alexander]]'s sword [[The General]].
