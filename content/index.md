@@ -12,6 +12,8 @@ The people of Icewind Dale know [[Frostmaiden|Auril's]] wrath when they feel it,
 Not all creatures are discouraged by what has transpired north of the [[Spine of the World]]. The long nights and sunless days are a blessing to [[Xardorok Sunblight]], a molefolk, who longs to carve out a domain for himself on the surface.
 
 ## Meet the Party ##
+### Members
+
 | Name                 | Player   | Status                  |
 | -------------------- | -------- | ----------------------- |
 | [[Lightfoot]]        | Jason    | In Party                |
@@ -20,7 +22,9 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Arctic Winds]]     | Miranda  | Deceased                |
 | [[Char]]             | Franklin | Returned to the Tunnels |
 | [[Marigold]]         | Belle    | Healing townspeaker     |
-
+|                      |          |                         |
+### The Story So Far
+[[Chapter 1]]
 ## Locations ##
 
 [[Chapter 1]] of our story takes place in [[Easthaven]], [[Cauldron Caves]], [[Caer-Dineval]], and [[Kelvin's Cairn]].
