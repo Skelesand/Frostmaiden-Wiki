@@ -2,4 +2,4 @@ An ancient long sword made from [[chardalyn]]. Its creator infused themselves an
 
 Listed as apart of [[The Ebon Council]].
 
-**Current Owner: ** [[Alexander]]
+**Current Owner: [[Alexander]]

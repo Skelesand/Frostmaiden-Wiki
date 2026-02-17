@@ -4,7 +4,7 @@ The members listed are:
 
 | Title                 | Location                                  |
 | --------------------- | ----------------------------------------- |
-| [[The Gourmand]]      | [[Lightfoot]]                             |
+| [[The Gourmand]]      | [[Caer-Dineval]]                          |
 | [[The Ritual Master]] | Unknown                                   |
 | [[The Hunter]]        | Various sightings across [[Icewind Dale]] |
 | [[The Conservator]]   | Unknown                                   |
