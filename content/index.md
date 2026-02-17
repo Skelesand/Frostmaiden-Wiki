@@ -18,13 +18,14 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | -------------------- | -------- | ----------------------- |
 | [[Lightfoot]]        | Jason    | In Party                |
 | [[Volkin Frostmere]] | Marshall | In Party                |
-| [[Acorn Hazelpuff]]  | Miranda  | Unknown                 |
+| [[Acorn Hazelpuff]]  | Miranda  | In Party                |
 | [[Arctic Winds]]     | Miranda  | Deceased                |
 | [[Char]]             | Franklin | Returned to the Tunnels |
 | [[Marigold]]         | Belle    | Healing townspeaker     |
-|                      |          |                         |
+
 ### The Story So Far
 [[Chapter 1]]
+[[Chapter 2]]
 ## Locations ##
 
 [[Chapter 1]] of our story takes place in [[Easthaven]], [[Cauldron Caves]], [[Caer-Dineval]], and [[Kelvin's Cairn]].

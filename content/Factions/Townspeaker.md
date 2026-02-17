@@ -5,4 +5,5 @@ A Townspeaker is the elected leader of one of the [[Ten-Towns]].
 | [[Captain Waylon]]       | [[Easthaven]]    |
 | [[Crannoc Siever]]       | [[Caer-Dineval]] |
 | [[Dorbulgruf Shalescar]] | [[Bremen]]       |
+| [[Duvessa Shane]]        | [[Bryn Shander]] |
 

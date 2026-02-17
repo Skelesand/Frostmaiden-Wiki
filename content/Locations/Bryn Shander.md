@@ -1,15 +1,17 @@
 ## Introduction ##
 Population: 1,200
 
-Leader: Unknown
+Leader: [[Townspeaker]] [[Duvessa Shane]]
 
 The first stop for most visitors to [[Icewind Dale]] is Bryn Shander, a walled town perched atop a cold, lonely, wind-lashed hill. Bright lanterns suspended over narrow streets twist in the wind and add flecks of color to the town's otherwise drab surroundings.
 
 The friendliness in this settlement has dwindled of late. [[Frostmaiden|Auril]]'s [[The Rime|unyielding winter]] has greatly reduced the number of visitors to Bryn Shander, and local trade is suffering for it, eating away at the locals' sense of humor and goodwill. Still, there is no safer place in Icewind Dale to spend coin or spend the night.
 
-| Known Residents |
-| --------------- |
-| N/A             |
+| Known Residents     |
+| ------------------- |
+| [[Acorn Hazelpuff]] |
+| [[Scram]]           |
+| [[Echo]]            |
 ## Locations in Bryn Shander ##
 
 ### The North Look
@@ -19,6 +21,8 @@ The Northlook is the establishment most frequented by mercenaries and adventurer
 
   
 The inn's proprietor, a retired sellsword ratfolk named [[Scram]], knows full well the cycles of an adventurer's life.
+
+An underground fighting ring is hosted in the basement of this tavern. The new runners of this event also have [[Black Market]] connections.
 
 ## Major Events ##
 
