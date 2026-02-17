@@ -1,0 +1,1 @@
+The road between [[Bryn Shander]] and [[Easthaven]].
