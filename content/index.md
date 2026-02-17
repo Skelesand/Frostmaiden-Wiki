@@ -22,7 +22,9 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Marigold]]         | Belle    | Healing townspeaker     |
 
 ## Locations ##
-Our story begins in [[Easthaven]] and the [[Cauldron Caves]], then making its way to [[Caer-Dineval]] and [[Kelvin's Cairn]].
+
+[[Chapter 1]] of our story takes place in [[Easthaven]], [[Cauldron Caves]], [[Caer-Dineval]], and [[Kelvin's Cairn]].
+
 
 | [[Ten-Towns]]     | Visited? |
 | ----------------- | -------- |
@@ -36,4 +38,13 @@ Our story begins in [[Easthaven]] and the [[Cauldron Caves]], then making its wa
 | [[Lonelywood]]    | No       |
 | [[Targos]]        | No       |
 | [[Termalaine]]    | No       |
+## Rumors
+### Frost Giant Jarls
+*"Frost giants ruled this land long ago. Their leaders, the jarls, would meet atop a hill to the west to settle disputes. Their thrones still rest on that hill."*
 
+Locals say they have seen [[Frost Giants]] gather far to the west of [[Bryn Shander]].
+
+### Reghed Nomads
+*"If you're looking for something hidden in Icewind Dale, the people you should talk to are the Reghed nomads. They know every inch of this land and all its secrets. The tricky part is finding them. They tend to follow the reindeer herds."*
+
+The real secrets of [[Icewind Dale]] can't be found in a library, but perhaps the [[Reghed Nomads|nomads]] know.

@@ -27,7 +27,7 @@ The party encounters a small group of giant rams butting heads a short ways up t
 
 An avalanche soon came crashing down, almost sweeping [[Char]] away with it, but [[Arctic Winds]] was fast enough to grab him and get out of danger.
 
-The party runs into Patch, a badgerfolk that was hired by [[Avarice]] to place an orb at the peak of the mountain. After being saved from the [[Crag Cats]] on their way to easy meal, he explains that his siblings are in danger further up the mountain. They were attacked by a yeti and he wastes no time brushing himself off to climb back up again.
+The party runs into Patch, a badgerfolk that was hired by [[Avarice]] to place an orb at the peak of the mountain. After being saved from the [[Crag Cats]] on their way to an easy meal, he explains that his siblings are in danger further up the mountain. They were attacked by a yeti and he wastes no time brushing himself off to climb back up again.
 
 Patch gets ahead at first but the party soon catches up to find him frozen in fear just outside of a yeti's cave.
 
@@ -43,7 +43,7 @@ A combination of [[Lightfoot]]'s divination from the peak of the mountain and [[
 
 [[Kind in Autumn|Atlas]] was eager to get on with the mission assigned by [[Alexander]] and kill [[Durth Sunblight]].
 
-[[Arctic Winds]] was spotted immediately upon approaching the outpost and combat began. This fight resulted in [[Arctic Winds]] ripping open a hole in the wall. [[Lightfoot]] terrorizing the molefolk as their natural predator, a giant spider, in the [[Underdark]]. [[Kind in Autumn|Atlas]] and [[Charcoal]] do their best to hold off the [[Frost Ogre]].
+[[Arctic Winds]] was spotted immediately upon approaching the outpost and combat began. This fight resulted in [[Arctic Winds]] ripping open a hole in the wall. [[Lightfoot]] terrorizing the molefolk as their natural predator, a giant spider, in the [[Underdark]]. [[Kind in Autumn|Atlas]] and [[Charcoal]] do their best to hold off the [[Frost Monsters]].
 
 [[Nildar Sunblight|Nildar]] joins the fight by throwing a fire bomb into the room, significantly hurting the party and the ogre. After he is caught he pleas to talk.
 
