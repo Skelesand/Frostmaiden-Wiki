@@ -21,7 +21,7 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Acorn Hazelpuff]]  | Miranda  | In Party                |
 | [[Arctic Winds]]     | Miranda  | Deceased                |
 | [[Char]]             | Franklin | Returned to the Tunnels |
-| [[Marigold]]         | Belle    | Healing townspeaker     |
+| [[Marigold]]         | Belle    | In Bryn Shander         |
 
 ### The Story So Far
 [[Chapter 1]]
@@ -34,15 +34,15 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Ten-Towns]]     | Visited? |
 | ----------------- | -------- |
 | [[Bremen]]        | No       |
-| [[Bryn Shander]]  | No       |
+| [[Bryn Shander]]  | Yes      |
 | [[Caer-Dineval]]  | Yes      |
 | [[Caer-Konig]]    | Yes      |
 | [[Dougan's Hole]] | No       |
 | [[Easthaven]]     | Yes      |
 | [[Good Mead]]     | No       |
 | [[Lonelywood]]    | No       |
-| [[Targos]]        | No       |
-| [[Termalaine]]    | No       |
+| [[Targos]]        | Yes      |
+| [[Termalaine]]    | Yes      |
 ## Rumors
 ### Frost Giant Jarls
 *"Frost giants ruled this land long ago. Their leaders, the jarls, would meet atop a hill to the west to settle disputes. Their thrones still rest on that hill."*
