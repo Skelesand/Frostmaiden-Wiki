@@ -93,6 +93,8 @@ A combination of [[Lightfoot]]'s divination from the peak of the mountain and [[
 
 [[Nildar Sunblight|Nildar]] agrees to work with the party in killing [[Durth Sunblight]] because he is ruthless monster. Nildar explains that Durth has killed their 5 older brother so that he is crown prince. A trait that [[Xardorok Sunblight]] (their father) apparently admires. (and it certainly didn't hurt that Nildar would become crown prince)
 
+[[Volkin Frostmere]] had been tracking [[Frost Monsters]] from [[Lonelywood]] to [[Kelvin's Cairn]]. During the commotion he reveals himself from hiding and joins the party in their efforts to defeat [[Durth Sunblight]].
+
 [[Durth Sunblight|Durth]] awaited the party with a trap ready to spring, and as first to act, [[Arctic Winds]] was caught in it. Durth and AW clashed as giants of Frost and Stone. In the final moments Durth held AW hostage, and as [[Lightfoot]] seared his weapon in flames, and [[Volkin Frostmere|Volkin]] leapt to disarm him, he plunged [[The Gourmand|the chardalyn knife]] into [[Arctic Winds]]' chest. Within seconds [[Charcoal]] ripped [[Durth Sunblight]] to pieces.
 
 ### Aftermath ###
