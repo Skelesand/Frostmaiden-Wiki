@@ -8,7 +8,9 @@ North of the [[Spine of the World]] and west of the towering [[Reghed Glacier]] 
 Each night before midnight, [[Frostmaiden|Auril]] takes to the sky and weaves her [[The Rime|spell]], which manifests as a shimmering curtain of light—a beautiful aurora that illuminates the night sky and fades before dawn. This powerful magic prevents the next day's sun from rising above the horizon, turning midday into twilight and trapping Icewind Dale in winter's dark embrace, with no sunlight or warmth to melt the snow and ice. Each casting of the spell leaves the Frostmaiden weakened, with just enough divine power left to barricade the mountain pass with blizzards and churn the Sea of Moving Ice with blistering winds. Such measures discourage travelers from approaching or leaving Icewind Dale, further isolating the region. Icewind Dale has thus been trapped in a different reality from the rest of the world, for though the sun never rises over the dale, it continues to rise everywhere else.
 
 The people of Icewind Dale know [[Frostmaiden|Auril's]] wrath when they feel it, and they have a name for the unending winter she has inflicted on them. They call it the [[The Rime|Everlasting Rime]]. No one understands why the [[Frostmaiden]] has imposed her will in this way or why the other [[spirit|spirits]] refuse to challenge her. This prolonged winter, which has gone on for more than two years, threatens to doom not just the flickering lights of civilization known as [[Ten-Towns]] but also the indigenous flora and fauna that need sunlight and the change of seasons to survive.
+
 ![[cover image.jpg]]
+
 Not all creatures are discouraged by what has transpired north of the [[Spine of the World]]. The long nights and sunless days are a blessing to [[Xardorok Sunblight]], a molefolk, who longs to carve out a domain for himself on the surface.
 
 ## Meet the Party ##
