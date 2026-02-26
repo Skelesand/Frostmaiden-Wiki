@@ -29,7 +29,7 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 ## Locations ##
 ![[Icewind Dale_map.png]]
 
-<img src="/images/Ten Towns Map.png" alt="Ten-Towns Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+<img src="/images/Ten Towns Map.png" alt="Ten-Towns Map" style="float: right; width: 300px; margin: 0 0 1rem 1rem;" />
 
 | [[Ten-Towns]]     | Visited? |
 | ----------------- | -------- |
