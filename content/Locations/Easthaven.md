@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/Easthaven_map.webp" alt="Easthaven Map" style="display:block; margin-left:auto; margin-right:auto;" />
 Population: 750
 
 Leader: [[Townspeaker]] [[Captain Waylon|Waylon]]

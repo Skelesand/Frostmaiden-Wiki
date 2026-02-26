@@ -4,6 +4,8 @@ Kelvin's Cairn is a free standing, 1,500 foot tall mountain fronted by a river v
 It is rumored to be a gathering place of [[spirit|spirits]] in the [[Icewind Dale|dale]].
 
 [[Lightfoot]] would go on to confirm this rumor as he was shown a passage into the [[Spirit World]] at the peak of the mountain. The place it led to is called [[The Sun Sea]], a sea of rushing clouds, above and below the peak of the mountain, which now felt more like an island. Sunlight covered every inch of this place and spirits could be seen leaping through the clouds in the distance. An ancient white dragon used the peak of this island as a resting place.
+
+![[kelvins-cairn_map.webp]]
 ## Locations on Kelvin's Cairn
 ### The Summit ###
 [[Lightfoot]] spotted traces of an eye being drawn by the snowflakes in the wind all across the mountain, but they were most prevalent at the summit. Kelvin's Cairn enhances divination magic, and is at its most potent at the peak.
@@ -30,6 +32,8 @@ An avalanche soon came crashing down, almost sweeping [[Char]] away with it, but
 The party runs into Patch, a badgerfolk that was hired by [[Avarice]] to place an orb at the peak of the mountain. After being saved from the [[Crag Cats]] on their way to an easy meal, he explains that his siblings are in danger further up the mountain. They were attacked by a yeti and he wastes no time brushing himself off to climb back up again.
 
 Patch gets ahead at first but the party soon catches up to find him frozen in fear just outside of a yeti's cave.
+
+![[yeti_attack.webp|500]]
 
 A long and messy fight results in the yetis and Patch being killed. [[Arctic Winds]] offers a yeti head to [[Char]], but this only upsets him. [[Lightfoot]] discovers the crystal orb that Patch was meant to bring to the peak.
 

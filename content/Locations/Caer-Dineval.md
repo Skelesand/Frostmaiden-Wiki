@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/caer-dineval_map.webp" alt="Caer-Dineval Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 Population: 100
 
 Leader: [[Townspeaker]] [[Crannoc Siever]]

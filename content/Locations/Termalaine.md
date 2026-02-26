@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/termalaine_map.webp" alt="Termalaine Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 Population: 600
 
 Leader: Unknown

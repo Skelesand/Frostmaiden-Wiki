@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/lonelywood_map.webp" alt="Lonelywood Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 Population: 100
 
 Leader: Unknown

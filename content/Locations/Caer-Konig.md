@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/caer-konig_map.webp" alt="Caer-Konig Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 Population: 150
 
 Leader: Unknown

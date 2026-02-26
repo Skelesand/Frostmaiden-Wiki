@@ -1,4 +1,5 @@
 ## Introduction ##
+<img src="/images/targos_map.webp" alt="Targos Map" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 Population: 1000
 
 Leader: Unknown
