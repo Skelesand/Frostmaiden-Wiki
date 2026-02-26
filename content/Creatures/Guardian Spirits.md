@@ -1,0 +1,1 @@
+Guardian Spirits have been utilized by the [[Frost Giants]] in the [[Cauldron Caves]] to protect the Rune of Frost. The spirit they faced took the appearance of a giant serpent made of water.

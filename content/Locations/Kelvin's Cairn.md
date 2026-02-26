@@ -12,7 +12,7 @@ It is rumored to be a gathering place of [[spirit|spirits]] in the [[Icewind Dal
 
 The entire mountain is protected by [[Crag Cats]], beasts blessed and tasked with guarding the mountain. The mountain has recently gained a new guardian: [[Charcoal]], [[Arctic Winds]]' rescued companion.
 
-A [[chimlings|chimling]] revealed a passage to [[The Sun Sea]] in the [[Spirit World]].
+A [[Chimlings|chimling]] revealed a passage to [[The Sun Sea]] in the [[Spirit World]].
 
 ### Sunblight Outpost
 [[Durth Sunblight]] commanded and outpost built deep in a scar on the mountain. From here he commanded his soldiers and younger brother [[Nildar Sunblight]] to search the [[Ten-Towns]] for [[chardalyn]].
