@@ -4,15 +4,31 @@ title: Home
 <img src="/images/frostmaiden_watch.webp" alt="Frostmaiden Watching" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 
 ## Welcome to the Far North ##
-North of the [[Spine of the World]] and west of the towering [[Reghed Glacier]] is a frigid expanse few dare to explore, let alone inhabit. This icy land of windswept tundra recently became locked in a perpetual, dark winter without reprieve. Auril the [[Frostmaiden]], the divine embodiment of winter's fury, has withdrawn to this cold corner of the world to live among mortals. Further, she has cast a terrible spell over [[Icewind Dale]], to the detriment of most of its denizens.
+North of the [[Spine of the World]] and west of the towering [[Reghed Glacier]] is a frigid expanse few dare to explore, let alone inhabit. This icy land of windswept tundra recently became locked in a perpetual, dark winter without reprieve. Auril the [[Frostmaiden]], the divine embodiment of winter's fury, has withdrawn to this cold corner of the world to live among mortals. Further, she has cast a terrible spell over [[Icewind Dale]], to the detriment of most of its denizens, called [[The Rime]].
 
-Each night before midnight, [[Frostmaiden|Auril]] takes to the sky and weaves her [[The Rime|spell]], which manifests as a shimmering curtain of light—a beautiful aurora that illuminates the night sky and fades before dawn. This powerful magic prevents the next day's sun from rising above the horizon, turning midday into twilight and trapping Icewind Dale in winter's dark embrace, with no sunlight or warmth to melt the snow and ice. Each casting of the spell leaves the Frostmaiden weakened, with just enough divine power left to barricade the mountain pass with blizzards and churn the Sea of Moving Ice with blistering winds. Such measures discourage travelers from approaching or leaving Icewind Dale, further isolating the region. Icewind Dale has thus been trapped in a different reality from the rest of the world, for though the sun never rises over the dale, it continues to rise everywhere else.
+On each full moon, [[Frostmaiden|Auril]] takes to the sky and weaves her [[The Rime|spell]], which manifests as a shimmering curtain of light—a beautiful aurora that illuminates the night sky and fades before dawn. This powerful magic prevents the next day's sun from rising above the horizon, turning midday into twilight and trapping [[Icewind Dale]] in winter's dark embrace, with no sunlight or warmth to melt the snow and ice. Each casting of [[The Rime]] leaves the Frostmaiden weakened, with just enough divine power left to barricade the mountain pass with blizzards and churn the Sea of Moving Ice with blistering winds. Such measures discourage travelers from approaching or leaving Icewind Dale, further isolating the region. Icewind Dale has thus been trapped in a different reality from the rest of the world, for though the sun never rises over the dale, it continues to rise everywhere else.
 
 The people of Icewind Dale know [[Frostmaiden|Auril's]] wrath when they feel it, and they have a name for the unending winter she has inflicted on them. They call it the [[The Rime|Everlasting Rime]]. No one understands why the [[Frostmaiden]] has imposed her will in this way or why the other [[spirit|spirits]] refuse to challenge her. This prolonged winter, which has gone on for more than two years, threatens to doom not just the flickering lights of civilization known as [[Ten-Towns]] but also the indigenous flora and fauna that need sunlight and the change of seasons to survive.
 
 ![[cover image.jpg]]
 
 Not all creatures are discouraged by what has transpired north of the [[Spine of the World]]. The long nights and sunless days are a blessing to [[Xardorok Sunblight]], a molefolk, who longs to carve out a domain for himself on the surface.
+
+## Our World at Large
+### Inhabitants
+The world is inhabited not by elves or dwarves, but by critterfolk—anthropomorphic animals of all kinds. They can range from familiar creatures like mice, foxes, and rabbits, to more exotic animals like peacocks or even catfish. Generally the more common an animal is in the real world, the more common it is among critterfolk (e.g. Mice, rat, and rabbit-folk are quite common). [[Icewind Dale]] is a cold and isolated place so few critterfolk are native to it. Those who live here often come from species not typically seen in arctic regions.
+
+### Magic
+Magic in our world is woven from two threads: Arcane and Spiritual.
+
+#### Arcane Magic
+Arcane Magic is a system of understanding, rooted in the deep observation of the world around you. Arcane magic operates on the principles of mathematics, patterns, and the connections between all things. To wield it is to see the hidden threads that tie the universe together. 
+
+#### Spiritual Magic
+Spiritual Magic is the art of connecting to the life force that flows through all things. Unlike arcane magic, which is governed by the precise laws of the physical world, spiritual magic is rooted in the intangible; a force that binds living creatures to the soul of the world. It is a matter of sensation and connection to the world around you, or at least one aspect of the world. 
+
+### The Gods
+The gods of this world are great [[spirit|spirits]], each one a living embodiment of a force of nature or an essential aspect of life. They walk the line between deity and elemental, and their presence is often felt in the land itself. These spirits are part of the world’s breath and rhythm. They are the forest’s bloom, the river’s pull, the fire’s hunger, and the renewal after the storm. In our game, they are the bitter cold, relentless wind, and dancing snowflakes.
 
 ## Meet the Party ##
 ### Members
@@ -27,7 +43,7 @@ Not all creatures are discouraged by what has transpired north of the [[Spine of
 | [[Marigold]]         | Belle    | In Bryn Shander         |
 
 ### The Story So Far
-[[Chapter 1]]
+[[Chapter 1]] 
 [[Chapter 2]]
 ## Locations ##
 ![[Icewind Dale_map.png]]

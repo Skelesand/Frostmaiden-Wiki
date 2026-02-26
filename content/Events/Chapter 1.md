@@ -1,7 +1,7 @@
 ### Trouble on The Eastway
 Our story begins with [[The Brisbees]] taking three strangers from [[Bryn Shander]] to [[Easthaven]]. Those strangers being: [[Arctic Winds]], [[Lightfoot]], and [[Alexander]].
 
-While traveling on [[The Eastway]] they were attacked by [[Frost Monsters|monsters made of frost]]. They found evidence that the monsters were sent after Alexander's sword, later to be revealed as [[The General]]. Alexander welcomes the party to stay at his castle in [[Caer-Dineval]] should they ever be passing through.
+While traveling on [[The Eastway]] they were attacked by [[Frost Monsters|monsters made from the ice and snow]]. They found evidence that the monsters were sent to retrieve Alexander's sword, later to be revealed as [[The General]]. Alexander welcomes the party to stay at his castle in [[Caer-Dineval]] should they ever be passing through.
 
 ### Burned at the Stake ###
 When the party arrived the entire town was out in the town center celebrating the burning of the wizard [[Orrin Farzassh]] who had been charged with the murder of his own expedition crew. [[Captain Waylon]] led this ritual, which involved Orrin's death by burning at the stake, and the gathering of the town around this fire for warmth. From this ritual the party discovered there are [[Gargoyles]] perched and watching this display. Lightfoot retrieves a lost journal belonging to [[Professor Greywhistle]].
