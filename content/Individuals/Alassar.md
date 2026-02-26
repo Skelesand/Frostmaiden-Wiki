@@ -13,6 +13,7 @@
 | Backstory        | Al was caught stealing bread in [[Bryn Shander]] so he hid away on a random wagon. Little did he know he would end up stuck in [[Caer-Dineval]]. [[Alexander]] allows him to stay as long as he pitches in, so he takes care of the wolves. |
 | Goals            | Get something to eat                                                                                                                                                                                                                        |
 <img src="/images/Alassar.png" alt="Alassar" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
 Al created and handed out badges of honor made from hay and twine for the winners of the games held in [[Caer-Dineval]].
 
 Al tagged along with the party for a ride down to [[Easthaven]], where he was told to find [[Jumba Liyah]] and [[John Robbins]]. After settling in, Al begins his task of telling [[Arctic Winds]]' story to anyone who will listen.

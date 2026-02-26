@@ -12,6 +12,7 @@
 | Backstory        | The sixth son in line to be King in the Tunnels. He removed the 5 brothers in his way only to be killed in his final brother's conspirators. |
 | Goals            | Collect [[chardalyn]] for the "last light"                                                                                                   |
 <img src="/images/Durth Sunblight.png" alt="Durth Sunblight" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
 The previous crown prince of the [[Sunblights]]. Durth was blessed by [[Stone Giant|Stone Giants]] to grant him incredibly strength and skin like stone.
 
 Durth was confronted by [[Arctic Winds]]; Stone and Frost giants clashed. Neither lived to tell the tale. In the end Durth was ripped to pieces by AW's loyal companion [[Charcoal]].

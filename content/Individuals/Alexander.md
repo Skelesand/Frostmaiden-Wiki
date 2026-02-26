@@ -13,6 +13,7 @@
 | Goals            | Unknown                                                                                                                            |
 
 <img src="/images/Alexander Ages.png" alt="Alexander" style="float: right; width: 300px; margin: 0 0 1rem 1rem;" />
+
 Alexander is a walking corpse that wields [[The General]]. Using this blade he commands the [[Knights of the Black Blade]] by raising those who die alone in the cold of [[Icewind Dale]] back as his undead.
 He was once working with [[Lord Kadroth]], who had allowed the knights to stay in his keep, but Alexander worked with the party to kill [[Lord Kadroth]] who had been poisoning the [[Townspeaker]] of [[Caer-Dineval]], leaving Alexander as the sole leader of the knights.
 Alexander has the ability to form magical [[Pact|pacts]] with people, indicating he must be some sort of [[spirit]].

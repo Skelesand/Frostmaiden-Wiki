@@ -12,6 +12,7 @@
 | Backstory        | Served as a captain during [[The Red Month]]. After this conflict she was elected as [[Townspeaker]] of [[Easthaven]] for her leadership. |
 | Goals            | Keep the people of [[Easthaven]] safe.                                                                                                    |
 <img src="/images/Townspeaker Waylon.jpg" alt="Captian Waylon" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
 Dannith Waylon is a white and gray harengon that serves as the [[Townspeaker]] of [[Easthaven]].
 She possesses the abilities of a paladin and can use these to detect the presence of [[chardalyn]].
 

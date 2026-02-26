@@ -12,6 +12,7 @@
 | Backstory        | Responded to a letter from her friend [[Orrin Farzassh]], but when she arrived to meet him, he had been burned at the stake |
 | Goals            | Discover what happened to [[Orrin Farzassh]] and continue investigating the [[spirit\|spirits]] of the north                |
 <img src="/images/Professor Greywhistle.jpg" alt="Professor Greywhistle" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
 Dandylin Greywhistle
 A squirrelfolk professor and member of the [[Arcane Brotherhood]].
 
