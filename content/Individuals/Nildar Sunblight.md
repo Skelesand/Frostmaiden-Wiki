@@ -11,3 +11,4 @@
 | Personality      | Schemer                                                                                                                                                                                 |
 | Backstory        | The seventh son of [[Xardorok Sunblight]] and now crown prince. [[Durth Sunblight]], the sixth son, killed the others before he was killed by Nildar's new found ally [[Arctic Winds]]. |
 | Goals            | Bring "prosperity" to [[Icewind Dale]]                                                                                                                                                  |
+<img src="/images/Nildar.jpg" alt="Nildar" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />

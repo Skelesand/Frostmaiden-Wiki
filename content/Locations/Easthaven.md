@@ -44,6 +44,7 @@ A basic goods store. Specialized in fishing equipment.
 ### Burned at the Stake ###
 When the party arrived the entire town was out in the town center celebrating the burning of the wizard [[Orrin Farzassh]] who had been charged with the murder of his own expedition crew. [[Captain Waylon]] led this ritual, which involved Orrin's death by burning at the stake, and the gathering of the town around this fire for warmth. From this ritual the party discovered there are [[Gargoyles]] perched and watching this display. Lightfoot retrieves a lost journal belonging to [[Professor Greywhistle]].
 
+![[burned_at_stake.webp]]
 ### The Lady of the Lake ###
 [[Lightfoot]] had traveled to [[Easthaven]] because he heard a rumor of a bard named [[Elsbeth]] traveling there too to perform a communing ritual. Sure enough [[Elsbeth]] was waiting in The Pale Lady Inn for people to gather.
 

@@ -14,7 +14,7 @@
 | Backstory        | A wealthy artist from Water Deep                                                               |
 | Goals            | To create art from [[Icewind Dale]]                                                            |
 
-
+<img src="/images/Avarice.jpg" alt="Avarice" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
 A member of the [[Arcane Brotherhood]].
 [[Professor Greywhistle]] suspects that Avarice has been meddling in both her and [[Orrin Farzassh]]'s affairs.
 

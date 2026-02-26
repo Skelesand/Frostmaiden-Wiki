@@ -12,3 +12,4 @@
 | Backstory        | Traveled to [[Easthaven]] to commune with the [[Lady of the Lake]] |
 | Goals            | Listen to what the [[spirit\|spirits]] have to say                 |
 
+<img src="/images/Elspeth.jpg" alt="Elsbeth" style="float: right; width: 400px; margin: 0 0 1rem 1rem;" />

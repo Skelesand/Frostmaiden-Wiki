@@ -11,4 +11,4 @@
 | Personality      | Unknown                                                                                                                                        |
 | Backstory        | Siever has been being poisoned by [[Lord Kadroth]] to keep him perpetually ill. [[Marigold]] nursed him back to health after Kadroth's demise. |
 | Goals            | Unknown                                                                                                                                        |
-
+<img src="/images/Townspeaker Siever.jpg" alt="Townspeaker Siever" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />

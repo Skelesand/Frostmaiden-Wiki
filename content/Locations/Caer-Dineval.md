@@ -21,6 +21,8 @@ The [[Knights of the Black Blade]] occupy the fortress, led by [[Alexander]].
 ### Castle Dineval ###
 The keep that the town is named after. Home to the [[Knights of the Black Blade]], led by [[Alexander]] and formerly [[Lord Kadroth]]. The knights generally keep to themselves unless the town is in need of protecting, in which case they act quickly. [[Townspeaker]] [[Crannoc Siever|Siever]] is recovering from illness within the castle.
 
+![[caer-dineval.webp]]
+
 ### The Uphill Climb ###
 The tavern just outside of Castle Dineval. When the party arrived in town this was the only light they saw. Upon further inspection the welcoming light and tempting scents were an illusory trap, where [[Hunger Spirits]] were waiting inside. Waiting within the kitchen, [[Arctic Winds]] discovered a [[chardalyn]] butcher's knife, later discovered to be called [[The Gourmand]].
 
