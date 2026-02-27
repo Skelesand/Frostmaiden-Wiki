@@ -5,3 +5,8 @@ An ancient long sword made from [[chardalyn]]. Its creator infused themselves an
 Listed as apart of [[The Ebon Council]].
 
 **Current Owner: [[Alexander]]
+
+## Abilities
+This sword works together with a series of [[chardalyn]] amulets to control an army of undead([[Knights of the Black Blade]]).
+
+It can be summoned and dismissed at will by its user.

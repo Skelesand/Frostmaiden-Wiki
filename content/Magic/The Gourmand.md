@@ -5,3 +5,6 @@ An ancient butcher's knife made from [[chardalyn]]. Its creator infused themselv
 Listed as apart of [[The Ebon Council]].
 
 **Owner:** [[Alexander]]
+
+## Abilities
+This knife exists to consume. It will consume any healing magic attempted on its user, and if you let it consume a part of you (expend a hit die), it will consume your enemies (deal additional necrotic damage).
