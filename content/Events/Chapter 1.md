@@ -32,7 +32,7 @@ Each month on the full moon a name is drawn from those who reside in [[Easthaven
 
 While sneaking through town [[Arctic Winds]] is confronted by [[Captain Waylon]] who warns they don't understand what they're doing. [[Lightfoot]] was ready with a sled and mount to escape town with [[Arctic Winds]] and [[Professor Greywhistle]].
 
-The party heads north, where [[Alexander]] had promised a safe place to stay in [[Caer-Dineval]] should they ever need one.
+The party heads north, where [[Alexander]] had promised a safe place to stay in [[Caer-Dineval]] should they ever need one. Before they arrive a [[Gargoyles|gargoyle]] kidnapped [[Professor Greywhistle]] from the sled and flew off into the blizzard. Greywhistle left behind a [[Greywhistle's Letter|letter]].
 
 ### Comfort in the Storm
 The blizzard rages for many hours. During this time the party is led by a [[spirit]] that looked like a wolf, but in place of a face there is a magic eye. The wolf leads them to a cabin where they meet [[Marigold]], a member of [[The Bridges of Trust]]. They have a brief run in with a polar owl-bear but manage to scare it away. Marigold explains that she is on her way to [[Caer-Dineval]] to see why their [[Townspeaker]] has not joined in their organization.
@@ -40,7 +40,7 @@ The blizzard rages for many hours. During this time the party is led by a [[spir
 They wait out the blizzard and continue traveling to [[Caer-Dineval]] when it passes.
 
 ### Hungering Lights ###
-When the party arrived in Caer-Dineval, the only light the spotted on was the tavern outside of the castle. On their way to the tavern they met a young fisherman named [[Denny]]. Denny was too eager to eat and ignored all of the warning signs of a trap in the tavern. Once the illusion of warmth and good food was shattered, the [[Hunger Spirits]] attacked the party, eventually leading [[Arctic Winds]] to discover that the source of these spirits is a [[chardalyn]] butcher's knife ([[The Gourmand]]).
+When the party arrived in Caer-Dineval, the only light the spotted on was the tavern outside of the castle. On their way to the tavern they met a young fisherman named [[Denny]]. Denny was too eager to eat and ignored all of the warning signs of a trap in the tavern. Once the illusion of warmth and good food was shattered, the [[Hunger Spirits]] attacked the party, eventually leading [[Arctic Winds]] to discover that the source of these spirits was a [[chardalyn]] butcher's knife ([[The Gourmand]]).
 
 ### Whispers in the Keep ###
 The party meets up with [[Alexander]] and meet his acquaintance [[Lord Kadroth]]. Everyone quickly agrees that Kadroth must be removed after learning that he has been poisoning [[Townspeaker]] [[Crannoc Siever|Siever]] to keep him sick and incapable of refuting any of Kadroth's actions.
