@@ -1,6 +1,7 @@
 Played by: Miranda
 ## Introduction
 <img src="/images/Acorn_Hazelpuff.jpg" alt="Acorn Hazelpuff" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
 ## Events
 ### Ear to the Ground
 [[Avarice]] found Acorn in [[Bryn Shander]] and offered her a deal. Keep an ear to the ground for her and she will pay handsomely. Hazelpuff accepted the stone bat's ear she was given but has expressed no interest in truly taking the deal. 
