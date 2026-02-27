@@ -12,4 +12,7 @@
 | Backstory        | Retired adventurer                      |
 | Goals            | Make as much sweet sweet gold as he can |
 
+<img src="/images/Scram.jpg" alt="Scram" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
+
 Scram runs an illegal fighting pit in the basement of his tavern. He insists it isn't really a big deal with the law, but he does go through the trouble of magically concealing the sound coming from below.
