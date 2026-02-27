@@ -1,4 +1,4 @@
-<img src="/images/bryn-shander_map.webp" alt="Bryn Shander Map" style="display:block; margin-left:auto; margin-right:auto;" />
+<img src="/images/Bryn-Shander_Map.webp" alt="Bryn Shander Map" style="display:block; margin-left:auto; margin-right:auto;" />
 
 ## Introduction ##
 
