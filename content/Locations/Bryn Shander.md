@@ -1,4 +1,5 @@
 <img src="/images/bryn-shander_map.webp" alt="Bryn Shander Map" style="display:block; margin-left:auto; margin-right:auto;" />
+
 ## Introduction ##
 
 Population: 1,200
