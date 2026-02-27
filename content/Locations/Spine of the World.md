@@ -1,1 +1,1 @@
-A jagged mountain range that divides [[Icewind Dale]] from the rest of the world, south of the mountains.
+The Spine of the World is the southern border of [[Icewind Dale]]. It is a vast mountain in the far north of our world. 

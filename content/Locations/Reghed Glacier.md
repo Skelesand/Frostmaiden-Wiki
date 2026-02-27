@@ -1,1 +1,1 @@
-The Reghed Glacier is a massive, ancient sheet of ice that stretches across the northern expanse of the [[Spine of the World]].
+The Reghed Glacier serves as the eastern border of [[Icewind Dale]]. It is an enormous plateau of ice that is hundreds of feet tall.
