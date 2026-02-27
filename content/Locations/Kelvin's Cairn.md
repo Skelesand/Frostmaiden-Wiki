@@ -5,7 +5,7 @@ It is rumored to be a gathering place of [[spirit|spirits]] in the [[Icewind Dal
 
 [[Lightfoot]] would go on to confirm this rumor as he was shown a passage into the [[Spirit World]] at the peak of the mountain. The place it led to is called [[The Sun Sea]], a sea of rushing clouds, above and below the peak of the mountain, which now felt more like an island. Sunlight covered every inch of this place and spirits could be seen leaping through the clouds in the distance. An ancient white dragon used the peak of this island as a resting place.
 
-![[kelvins-cairn_map.webp]]
+![[Kelvins Cairn.png]]
 ## Locations on Kelvin's Cairn
 ### The Summit ###
 [[Lightfoot]] spotted traces of an eye being drawn by the snowflakes in the wind all across the mountain, but they were most prevalent at the summit. Kelvin's Cairn enhances divination magic, and is at its most potent at the peak.
