@@ -12,3 +12,6 @@
 | Backstory        | The seventh son of [[Xardorok Sunblight]] and now crown prince. [[Durth Sunblight]], the sixth son, killed the others before he was killed by Nildar's new found ally [[Arctic Winds]]. |
 | Goals            | Bring "prosperity" to [[Icewind Dale]]                                                                                                                                                  |
 <img src="/images/Nildar.jpg" alt="Nildar" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
+### Introduction
+Nildar is the 7th and final living son of [[Xardorok Sunblight]]. He is a self proclaimed alchemist and makes frequent use of explosives and potions alike. The party briefly saw his laboratory where it appeared he was housing and experimenting on [[Frost Monsters]] that were gifted to him. They also saw that he uses some sort of fungus from the [[Underdark]] to reanimate corpses. He justifies his actions by explaining everything has a "give and take", so to give he must take.
