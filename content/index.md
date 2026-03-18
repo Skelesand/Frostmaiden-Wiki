@@ -72,3 +72,8 @@ Locals say they have seen [[Frost Giants]] gather far to the west of [[Bryn Shan
 *"If you're looking for something hidden in Icewind Dale, the people you should talk to are the Reghed nomads. They know every inch of this land and all its secrets. The tricky part is finding them. They tend to follow the reindeer herds."*
 
 The real secrets of [[Icewind Dale]] can't be found in a library, but perhaps the [[Reghed Nomads|nomads]] know.
+
+### Frozen Shipwreck
+*"Head northwest out of Bremen, an' you'll see a pirate ship frozen in the ice less than a quarter mile from shore. No one's sure where it came from, but it's not goin' anywhere so long as this dark winter lasts. I bet its hold is full o' treasure"*
+
+There's an old pirate ship locked in the ice northwest of [[Bremen]]. If you're in need of gold, this may be the place to look.

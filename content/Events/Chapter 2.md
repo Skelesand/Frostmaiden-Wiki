@@ -39,6 +39,30 @@ Before departing, [[Lightfoot]] has the town wizard try and identify the orb he 
 
 The party heads west to [[Targos]]. Here they see what was once a thriving fishing town is now in decay and riddled with frostbite. [[Acorn Hazelpuff]] shares some of her knitting with strangers.
 
-They continue north towards [[Termalaine]]. Before they arrive, [[Lightfoot]] spots something hiding in the snow just before a small bridge. He launches an arrow at the creature and a fight ensues with the [[Frost Monsters|frost ogre]] and [[Frost Monsters|ice mephits]]. [[Acorn Hazelpuff|Acorn]] was knocked unconscious but Lightfoot was able to heal her wounds.
+They continue north towards [[Termalaine]]. Before they arrive, [[Lightfoot]] spots something hiding in the snow just before a small bridge. He launches an arrow at the creature and a fight ensues with the [[Frost Monsters|frost ogre]] and [[Frost Monsters|ice mephits]]. [[Acorn Hazelpuff|Acorn]] was knocked unconscious but Lightfoot was able to heal her wounds. The party presses on towards [[Termalaine]].
 
-The party presses on towards [[Termalaine]].
+### Sweet Dreams
+[[Rie]] arrived in [[Termalaine]] the day before the party did. She couldn't find a place to stay, a warm meal, or even a soul to talk to, so she found a place to take cover from the wind and fell asleep in the alley. (sleeping outside is a feat few could survive)
+
+[[Rie]] experienced a vivid dream. She was deep beneath the surface of the water. Looking up she could see what looked like a starry night sky on the water's surface. There was a silver koi fish and a golden whale swimming opposite each other in a large circle. She suddenly awoke when something snatched the koi fish from the water.
+
+### The Mad Rabbit
+[[Jennings]], a crazed rabbitfolk, spotted [[Rie]] and began raving about [[Celeste|The Druid of Lonelywood]], her lessons from the cold, and how she can save you from your pain. The party soon stumbles upon this scene as they arrive into town and join in on the questioning. [[Jennings]] latches onto [[Acorn Hazelpuff]], as she is  visibly injured and he wants the Druid to save her.
+
+[[Nildar Sunblight|Nildar]] remarks that the druid he met with in [[Lonelywood]] was named [[Celeste]] and is "almost certainly" the same druid that Jennings is talking about.
+
+### The Blue Clam
+[[Tusk]] welcomes everyone to [[Termalaine|The Blue Clam]]. We get to known [[Rie]] better and she is quickly welcomed into the party (signified by [[Acorn Hazelpuff|Acorn's]] knit flower in [[Rie|Rie's]] hat). Everyone shares their story to varying degrees and get to know one another over some (magically) delicious and cheap food.
+
+[[Tusk]] tells the party about how [[Jennings]] wasn't always crazy like that, but ever since he messed around with spirits he lost his mind. He also warns the party they shouldn't go into those woods, as there's a wraith that haunts them.
+
+[[Acorn Hazelpuff|Acorn]] mentions the Battle of [[Bryn Shander]] which quickly upsets [[Tusk]] and quiets the room. Later after confirming that Acorn and Tusk fought on the same side of the battle, Acorn is offered a place to stay whenever she needs.
+
+[[Nildar Sunblight|Nildar]] is eager to head into the woods and seems to think he deserves to be recognized as a leader or at least a form of authority.
+
+### Into the woods
+The party searches for many hours, spending all of their twilight lost in the woods. During their search they discover this to be a sort of haven for wildlife (much like [[Kelvin's Cairn]])
+
+There are wails of pain heard on the wind, whose source cant be placed for quite a long time. Eventually [[Acorn Hazelpuff|Hazelpuff]] figures the townsfolk were mistaken in calling the creature of these woods a wraith, and what they truly meant was a [[Banshee]]. A creature whose scream can stop a beating heart.
+
+The party rushes as fast as they can out of the forest but with darkness taking hold of the woods, the [[Banshee]] confronts the party at last and stops Acorn's heart. As the banshee's form can finally be plainly seen, it is black ghostly fox-folk, with a bow in hand and a large open wound across his chest. [[Lightfoot]] recognizes the weapon responsible for this wound: a scythe, once wielded by his friend [[Arctic Winds]].

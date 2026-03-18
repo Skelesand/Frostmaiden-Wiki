@@ -1,0 +1,3 @@
+<img src="/images/crag-cat.webp" alt="Crag Cat" style="float: right; width: 250px; margin: 0 0 1rem 1rem;" />
+
+Beasts from the material world who have been blessed by spirits to give their coat a magical barrier which can reflect spell attacks. They receive this blessing for serving as guardians of a spirit world crossing. The ones the party have encountered guarded [[The Sun Sea]] on [[Kelvin's Cairn]].

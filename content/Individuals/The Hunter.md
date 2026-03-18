@@ -1,0 +1,1 @@
+One of the titles listed on [[The Ebon Council]]. [[Durth Sunblight]] had their location marked in many places across Icewind Dale, seeming to indicate they wander frequently.
