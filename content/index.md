@@ -41,6 +41,7 @@ The gods of this world are great [[spirit|spirits]], each one a living embodimen
 | [[Arctic Winds]]     | Miranda  | Deceased                |
 | [[Char]]             | Franklin | Returned to the Tunnels |
 | [[Marigold]]         | Belle    | In Bryn Shander         |
+| [[Rie]]              | Amy      | In Party                |
 
 ### The Story So Far
 [[Chapter 1]] 
@@ -77,3 +78,16 @@ The real secrets of [[Icewind Dale]] can't be found in a library, but perhaps th
 *"Head northwest out of Bremen, an' you'll see a pirate ship frozen in the ice less than a quarter mile from shore. No one's sure where it came from, but it's not goin' anywhere so long as this dark winter lasts. I bet its hold is full o' treasure"*
 
 There's an old pirate ship locked in the ice northwest of [[Bremen]]. If you're in need of gold, this may be the place to look.
+
+### Magic Fishing Hook
+*"Nabira Moarskull, an Easthaven fisher, owned an enchanted fishhook that could catch magical fish. While she and her friends were out on the ice one day, a pair of filthy gnolls attacked them. They killed Nabira and stole her fishing pole and hook. Hunters from Easthaven tracked the gnolls to an icy rift in the ground but were too scared to go farther."*
+
+The location of the gnolls is known. Now to find someone crazy enough to go in there.
+
+### Falling Star
+*"Did you see the weird comet that fell out of the sky a week ago? It went down in the mountains south of Ten-Towns, not too far away. Since then, some folk have been receiving strange dreams. I think the comet might have something to do with that."*
+
+### Trouble in Easthaven
+*"Did you hear what happened to that evil wizard in Easthaven? They tied him to a stake and lit him on fire! Why? 'Cause he hired some Ten-Towners to help him find a buried tower, then killed 'em to keep its location secret. Well, one of 'em told me where the tower's at! I wouldn't go myself, but maybe it's somethin' you'd like to explore."*
+
+Lightfoot was there to see the wizard burn, and even heard talk of the wizard killing his own adventuring party, but this is the first he's heard of a tower.
